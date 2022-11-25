@@ -1,0 +1,22 @@
+node_modules
+build
+coverage
+.vscode
+.DS_STORE
+.env
+.env.test
+public/assets
+
+# tmp files
+tmp/*
+!tmp/.gitkeep
+
+
+# yarn v2
+.yarn/*
+# !.yarn/cache # Uncomment for zero-install
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+# .pnp.* # Comment for zero-install
